@@ -40,7 +40,7 @@ export function Footer() {
                         <div className="bg-zinc-200 w-14 h-1 rounded-full hover:bg-green-400 group-hover:bg-green-400 cursor-pointer"></div>
                     </div>
                 </div>
-                <Maximize2 size={20} className="hover:text-green-400 duration-150 cursor-pointer" />
+                
             </div>
         </footer>
     )
